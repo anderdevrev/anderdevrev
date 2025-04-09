@@ -11,6 +11,7 @@
 <table>
   <tr>
     <td><img src="./03BAFC53-8B7D-4F12-8C4D-E426D70D370F_1_105_c.jpeg" width="300"/></td>
+    <td><img src="./27C4A8B9-E0E8-4683-99F2-F7EDBE18D3F7_4_5005_c.jpeg" width="250"/></td>
     <td><img src="./7474D515-B978-46DC-A914-34F8B8286AA7_1_105_c.jpeg" width="300"/></td>
   </tr>
 </table>
