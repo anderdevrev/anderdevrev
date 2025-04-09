@@ -8,7 +8,12 @@
 <p>Animal shelter admins can register, upload pet profiles, and manage pet profiles through a designated dashboard. 
 <p>Built using Next.js, Typescript, and Directus for the backend, the platform enables a simple way to find pets from multiple shelters in a central place.</p>
 
-![Screenshot](./03BAFC53-8B7D-4F12-8C4D-E426D70D370F_1_105_c.jpeg)
+<table>
+  <tr>
+    <td><img src="./03BAFC53-8B7D-4F12-8C4D-E426D70D370F_1_105_c.jpeg" width="300"/></td>
+    <td><img src="./7474D515-B978-46DC-A914-34F8B8286AA7_1_105_c.jpeg" width="300"/></td>
+  </tr>
+</table>
 
 <h2> 🤳 Connect with me:</h2>
 
