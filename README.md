@@ -3,7 +3,7 @@
 <h2>👩🏻‍💻 Software Development Projects:</h2>
 
 - <b>Full-Stack MERN Cocktail Web Application | Search and discover cocktail recipes based on your favorite ingredients</b>
-  - [ElixirMixer]([https://www.youtube.com/watch?v=x0Ub1fOn1DM](https://github.com/devrilynn/My-Cocktail-Application))
+  - [ElixirMixer](https://github.com/devrilynn/My-Cocktail-Application)
     
 
 <h2>🔭 I’m currently working on:</h2>
