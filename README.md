@@ -11,6 +11,8 @@
 <h2>🔭 I’m currently working on:</h2>
 
 - <b>Capstone Project: Dating App For Animal Adoption (Pawsome)</b>
+  - [Pawsome](https://github.com/ngluunhatson/pawsome-frontend)
+    
 <p>Pawsome is a pet adoption web application designed to connect animals with their furever home.</p>
 <p>The application allows potential adopters to create accounts, select pet preferences, and start matching with their future pet.</p>
 <p>Animal shelter admins can register, upload pet profiles, and manage pet profiles through a designated dashboard. 
