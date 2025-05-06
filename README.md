@@ -2,7 +2,7 @@
 
 <h2>👩🏻‍💻 Software Development Projects:</h2>
 
-- <b>ElixirMixer Cocktail Web Application</b>
+- <b>Full-Stack MERN Cocktail Web Application | Search and discover cocktail recipes based on your favorite ingredients</b>
   - [ElixirMixer](https://www.youtube.com/watch?v=x0Ub1fOn1DM)
     
 
