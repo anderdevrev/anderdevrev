@@ -2,8 +2,10 @@
 
 <h2>👩🏻‍💻 Software Development Projects:</h2>
 
-- <b>Full-Stack MERN Cocktail Web Application | Search and discover cocktail recipes based on your favorite ingredients</b>
+- <b>Full-Stack MERN Cocktail Web Application | Search and discover cocktail recipes based on your favorite ingredients (JavaScript)</b>
   - [ElixirMixer](https://github.com/devrilynn/My-Cocktail-Application)
+- <b>Currency Converter Microservice (Python)</b>
+  - [Currency Converter](https://github.com/devrilynn/CurrencyConverter)
     
 
 <h2>🔭 I’m currently working on:</h2>
