@@ -3,7 +3,7 @@
 <h2>👩🏻‍💻 Software Development Projects:</h2>
 
 - <b>ElixirMixer Cocktail Web Application</b>
-  - [ElixirMixer]([https://github.com/joshmadakor1/Algorithms-Practice](https://www.youtube.com/watch?v=x0Ub1fOn1DM))
+  - [ElixirMixer([(https://www.youtube.com/watch?v=x0Ub1fOn1DM])
     
 
 <h2>🔭 I’m currently working on:</h2>
