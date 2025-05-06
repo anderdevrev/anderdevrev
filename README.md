@@ -26,6 +26,18 @@
   </tr>
 </table>
 
+
+<h2>💻 Experience:</h2>
+
+<h3>Software Developer Intern</h3>
+<h4>Swedemom Center of Giving</h4>
+<p>April 2024 - August 2024</p>
+
+
+ <h3>Software Developer</h3>
+<h4>Swedemom Center of Giving</h4>
+<p>August 2024 - Present</p>
+  
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="DevriAnderson | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
