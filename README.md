@@ -6,6 +6,8 @@
   - [ElixirMixer](https://github.com/devrilynn/My-Cocktail-Application)
 - <b>Currency Converter Microservice (Python)</b>
   - [Currency Converter](https://github.com/devrilynn/CurrencyConverter)
+- <b>IT Management Database Tool(Python)</b>
+  - [Hex Heros](https://github.com/HexHeros/IT-Managment)
     
 
 <h2>🔭 I’m currently working on:</h2>
@@ -29,12 +31,12 @@
 
 <h2>💻 Experience:</h2>
 
-<h3>Software Developer Intern</h3>
+- <h3><b>Software Developer Intern</b></h3>
 <h4>Swedemom Center of Giving</h4>
 <p>April 2024 - August 2024</p>
 
 
- <h3>Software Developer</h3>
+ - <h3></b>Software Developer</b></h3>
 <h4>Swedemom Center of Giving</h4>
 <p>August 2024 - Present</p>
   
