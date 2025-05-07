@@ -1,6 +1,6 @@
 <h1>Hi, I'm Devri!</h1>
 
-<h2>👩🏻‍💻 Software Development Projects:</h2>
+<h2>👩🏻‍💻  Software Development Projects:</h2>
 
 - <b>Full-Stack MERN Cocktail Web Application | Search and discover cocktail recipes based on your favorite ingredients (JavaScript)</b>
   - [ElixirMixer](https://github.com/devrilynn/My-Cocktail-Application)
@@ -9,8 +9,9 @@
 - <b>IT Management Database Tool (Python)</b>
   - [Hex Heros](https://github.com/HexHeros/IT-Managment)
     
+&nbsp;
 
-<h2>🔭 I’m currently working on:</h2>
+<h2>🔭  I’m currently working on:</h2>
 
 - <b>Capstone Project: Dating App For Animal Adoption (Pawsome)</b>
   - [Pawsome](https://github.com/ngluunhatson/pawsome-frontend)
@@ -28,19 +29,33 @@
   </tr>
 </table>
 
+&nbsp;
 
-<h2>💻 Experience:</h2>
+<h2>💻  Experience:</h2>
 
-- <h3><b>Software Developer Intern</b></h3>
-<h4>Swedemom Center of Giving</h4>
-<p>April 2024 - August 2024</p>
+### Software Developer
+**🏢 Swedemom Center of Giving**  
+*📅  August 2024 - Present*
+
+Full-stack developer with an emphasis on frontend development
+
+&nbsp;
+
+### Software Engineering Intern  
+**🏢 Swedemom Center of Giving**  
+*📅  April 2024 - August 2024*
+
+Developed a full-stack verification tool for warehouse operations:
+
+- Designed the UI with **Figma**
+- Developed the frontend using **CSHTML** and **JavaScript**
+- Created a **SQL stored procedure** to retrieve data from the backend
+- Integrated with an **ASP.NET** backend using **C#**
+
+&nbsp;
 
 
- - <h3></b>Software Developer</b></h3>
-<h4>Swedemom Center of Giving</h4>
-<p>August 2024 - Present</p>
-  
-<h2> 🤳 Connect with me:</h2>
+<h2> 🤳  Connect with me:</h2>
 
 [<img align="left" alt="DevriAnderson | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
