@@ -6,7 +6,7 @@
   - [ElixirMixer](https://github.com/devrilynn/My-Cocktail-Application)
 - <b>Currency Converter Microservice (Python)</b>
   - [Currency Converter](https://github.com/devrilynn/CurrencyConverter)
-- <b>IT Management Database Tool(Python)</b>
+- <b>IT Management Database Tool (Python)</b>
   - [Hex Heros](https://github.com/HexHeros/IT-Managment)
     
 
